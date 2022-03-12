@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjisme/vue-webpack.git"
+    "url": "git+https://github.com/HuangGuangXian/vue-webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yjisme/vue-webpack/issues"
+    "url": "https://github.com/HuangGuangXian/vue-webpack/issues"
   },
-  "homepage": "https://github.com/yjisme/vue-webpack#readme",
+  "homepage": "https://github.com/HuangGuangXian/vue-webpack#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "babel-loader": "^8.1.0",
